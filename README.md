@@ -1,1 +1,2 @@
 # PythonSelfTraining
+My Python trainings
